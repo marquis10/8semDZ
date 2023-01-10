@@ -19,7 +19,7 @@ void PrintMatrix(int[,] matrix)
 
 void ReleaseMatrix(int[,] matrix)
 {
-    int stroka = 0, MinSum = matrix.GetLength(1) * 11;
+    int stroka = 0, MinSum = matrix.GetLength(0) * 11;
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         int temp = 0;
