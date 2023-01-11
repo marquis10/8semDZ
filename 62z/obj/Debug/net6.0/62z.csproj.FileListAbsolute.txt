@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\bin\Debug\net6.0\62z.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\bin\Debug\net6.0\62z.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\bin\Debug\net6.0\62z.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\bin\Debug\net6.0\62z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\bin\Debug\net6.0\62z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\refint\62z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\62z.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8semDZ\62z\obj\Debug\net6.0\ref\62z.dll
